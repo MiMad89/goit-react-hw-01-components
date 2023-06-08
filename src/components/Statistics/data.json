@@ -1,0 +1,7 @@
+[
+  { "id": "id-1", "label": ".docx", "percentage": 22, "bg": "rgb(112, 165, 230)" },
+  { "id": "id-2", "label": ".pdf", "percentage": 4, "bg": "rgb(169, 57, 147)" },
+  { "id": "id-3", "label": ".mp3", "percentage": 17, "bg": "rgb(234, 85, 69)" },
+  { "id": "id-4", "label": ".psd", "percentage": 47, "bg": "rgb(25, 159, 166)" },
+  { "id": "id-5", "label": ".pdf", "percentage": 10, "bg": "rgb(169, 57, 147)" }
+]

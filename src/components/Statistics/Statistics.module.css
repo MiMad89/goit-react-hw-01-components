@@ -1,0 +1,41 @@
+.statistics {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+}
+
+.title {
+  padding: 25px 0;
+  text-align: center;
+  color: grey;
+}
+
+.statList {
+  display: flex;
+  border-radius: 0 0 5px 5px;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  width: 70px;
+  height: 70px;
+  border: none;
+  gap: 10px
+}
+
+.item:last-child {
+  border-radius: 0 0 5px 0;
+}
+.item:first-child {
+  border-radius: 0 0 0 5px;
+}
+
+.lable {
+    font-size: 12px;
+}

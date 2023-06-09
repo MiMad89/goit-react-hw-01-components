@@ -26,7 +26,7 @@
   width: 70px;
   height: 70px;
   border: none;
-  gap: 10px
+  gap: 10px;
 }
 
 .item:last-child {
@@ -37,5 +37,5 @@
 }
 
 .lable {
-    font-size: 12px;
+  font-size: 12px;
 }
